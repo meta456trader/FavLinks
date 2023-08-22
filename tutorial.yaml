@@ -1,2 +1,10 @@
 -mongo statefulset deployment on AKS
-  https://saibharath005.medium.com/mongodb-in-azure-kubernetes-4b06c2bc152b
+
+Azure Disk
+
+  https://github.com/cloudacademy/aks-voteapp-demo
+  https://cloudacademy.com/course/introduction-to-aks-954/deploying-mongodb-database-demo/
+  
+  https://saibharath005.medium.com/mongodb-in-azure-kubernetes-4b06c2bc152b (azure-file)
+  
+  https://faun.pub/aks-storage-provisioning-f09aab06d329
