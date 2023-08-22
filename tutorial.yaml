@@ -1,7 +1,7 @@
 -mongo statefulset deployment on AKS
 
-Azure Disk
-
+  https://github.com/rbrto/Mongo-AKS/blob/master/statefulset.yaml(azure disk)
+  
   https://github.com/cloudacademy/aks-voteapp-demo
   https://cloudacademy.com/course/introduction-to-aks-954/deploying-mongodb-database-demo/
   
