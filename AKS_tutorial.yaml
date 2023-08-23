@@ -11,3 +11,7 @@
 
 - AKS production CheckList
   https://learn.microsoft.com/en-us/azure/aks/image-cleaner?ref=www.the-aks-checklist.com%3Fref%3Dwww.the-aks-checklist.com&tabs=azure-cli
+
+
+- Azure Disk backup
+  https://learn.microsoft.com/en-us/azure/backup/backup-managed-disks
