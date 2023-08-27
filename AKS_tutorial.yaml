@@ -15,3 +15,7 @@
 
 - Azure Disk backup
   https://learn.microsoft.com/en-us/azure/backup/backup-managed-disks
+
+
+- Azure-Git CI/CD pipeline authentication
+  https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-access-from-github-and-gitlab-pipelines-without-secrets/ba-p/3858885
