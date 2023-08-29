@@ -19,3 +19,6 @@
 
 - Azure-Git CI/CD pipeline authentication
   https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-access-from-github-and-gitlab-pipelines-without-secrets/ba-p/3858885
+
+- Pulling from private docker repository
+  https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/
