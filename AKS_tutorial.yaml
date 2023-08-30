@@ -12,7 +12,6 @@
 - AKS production CheckList
   https://learn.microsoft.com/en-us/azure/aks/image-cleaner?ref=www.the-aks-checklist.com%3Fref%3Dwww.the-aks-checklist.com&tabs=azure-cli
 
-
 - Azure Disk backup
   https://learn.microsoft.com/en-us/azure/backup/backup-managed-disks
 
@@ -22,3 +21,6 @@
 
 - Pulling from private docker repository
   https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/
+
+- AzureAD -> AWS User Pool attribute mapping
+  https://dev.to/mubbashir10/integrate-azure-active-directory-ad-with-aws-cognito-user-pool-1l7h
