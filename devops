@@ -1,2 +1,5 @@
 - install sonarQube
   https://duecode.io/blog/sonarqube-how-to-measure-your-code-quality-in-5-easy-steps/
+
+- GitLab pipeline Job Example
+  https://gitlab.com/kargo-ci/kubernetes-sigs-kubespray/-/jobs/4932684147#L11
