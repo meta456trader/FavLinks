@@ -7,3 +7,6 @@
 
 - GitLab pipeline Job Example
   https://gitlab.com/kargo-ci/kubernetes-sigs-kubespray/-/jobs/4932684147#L11
+
+- Kubernetes Labeling Best Practices
+  https://www.redhat.com/sysadmin/kubernetes-labels-best-practices
